@@ -5,6 +5,7 @@
 //  Install: npm install ws
 // ══════════════════════════════════════════════
 
+//the code for the server is down there 
 const { WebSocketServer } = require('ws');
 const http = require('http');
 const fs   = require('fs');
